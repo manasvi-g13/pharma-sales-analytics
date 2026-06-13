@@ -22,15 +22,6 @@ This solution provides interactive dashboards that enable stakeholders to monito
 
 The analysis was performed on pharmaceutical sales transaction data containing product-level sales records, transaction dates, and performance metrics.
 
-## Tools Used
-
-- Power BI
-- Power Query
-- Excel
-- Data Visualization
-- Business Intelligence
-- Reporting Automation
-
 ## Key Findings
 
 - Product N02BE generated the highest sales volume, contributing over 63,000 units and significantly outperforming other products.
